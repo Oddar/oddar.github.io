@@ -11,7 +11,7 @@ image:
 ---
 
 This site is made to share my research done with regards to my undergraduate thesis at the Norwegian military academy.
-My dissertation is about ###"C4IS in the Norwegian Army"### and the subject is so broad that there are many things
+My dissertation is about **"C4IS in the Norwegian Army"** and the subject is so broad that there are many things
 that has to be omitted from my dissertation. These things are however quite interesting and deserves further elaboration.
 
 For that reason I have made this site as a place to share my thesis when it is complete, and elaborate on the things
