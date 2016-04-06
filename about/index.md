@@ -1,25 +1,20 @@
 ---
 layout: page
-title: About the Theme
+title: About this site.
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-04-06
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: safe_padlock.jpg
+  credit: Yuri Samoilov
+  creditlink: 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+This site is made to share my research done with regards to my undergraduate thesis at the Norwegian military academy.
+My dissertation is about ###"C4IS in the Norwegian Army"### and the subject is so broad that there are many things
+that has to be omitted from my dissertation. These things are however quite interesting and deserves further elaboration.
 
-## Minimal Mistakes is all about:
+For that reason I have made this site as a place to share my thesis when it is complete, and elaborate on the things
+that had to be omitted from it. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
