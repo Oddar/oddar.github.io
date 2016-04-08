@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Oddar Kristiansen
-  avatar: oddar_cartoon.jpg
+  avatar: cartoon.jpg
   bio: "Officer in the Norwegian Army. Writing about C4IS; 'Command, Control, Communications, Computers & Information Systems'"
   email:
   disqus-shortname: oddarkristiansen
