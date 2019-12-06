@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            C4IS in the Norwegian Army
+title:            C4IS
 locale:           en_US
 url:
 
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Oddar Kristiansen
-  avatar: oddar_cartoon.jpg
-  bio: "Officer in the Norwegian Army. Writing about C4IS; 'Command, Control, Communications, Computers & Information Systems'"
+  name: 
+  avatar: person.jpg
+  bio: 
   email:
-  disqus-shortname: oddarkristiansen
-  twitter: KOddarK
+  disqus-shortname: 
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: oddar
+  github: 
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: Oddar
+  linkedin: 
   xing: #username
   instagram: #username
   lastfm: #username
